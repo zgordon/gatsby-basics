@@ -2,7 +2,7 @@
 
 This repo contains the project for the Gatsby Basics Course from Zac Gordon.
 
-## Installing This Repo
+## Getting Started
 
 First open the folder you want to download this repo into.
 
@@ -20,12 +20,34 @@ cd gatsby-basics
 
 The master branch contains the final version of the project.
 
-## Each Video Has a Branch
+## Each Step of the Project Has a Branch
 
 During the course we build out this project bit by bit.
 
-If you want to follow along with the same code I start each video with you can change branches like this
+Each step of the project has a corresponding branch with the same code I start with.
+
+You can see all of the branches like this
 
 ```
-git 
+git branch -a
 ```
+
+To switch to a specific branch you can do this
+
+```
+git checkout BRANCH-NAME
+```
+
+For example, to get the first branch you would run
+
+```
+git checkout 01-getting-setup
+```
+
+## Find a Bug?
+
+Please [open an issue](https://github.com/zgordon/gatsby-basics/issues) if you find a bug with the code and I will try to fix as soon as I have a chance!  I appreciate your help :)
+
+## Need More Help?
+
+For additional support, [please contact Zac over at JavaScript for WordPress](https://javascriptforwp.com/).
