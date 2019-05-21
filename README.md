@@ -2,6 +2,8 @@
 
 This repo contains the project for the Gatsby Basics Course from Zac Gordon.
 
+![Gatsby Course Banner](https://d2aztkdj0ezvrk.cloudfront.net/items/2b0Z3q0j3E0H0T1l0A2K/Gatsby%20Basics.png)
+
 ## Getting Started
 
 First open the folder you want to download this repo into.
