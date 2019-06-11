@@ -1,0 +1,46 @@
+:root {
+  --purple: #663399
+}
+
+body {
+  margin: 0;
+  font-family: Helvetica, sans-serif
+}
+
+p {
+  font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+header,
+.content,
+footer {
+  padding: 1rem
+}
+
+header {
+  background-color: var(--purple);
+  color: white
+}
+
+header a {
+  color: white
+}
+
+header nav ul {
+  display: flex;
+  list-style: none;
+  padding: 0;  
+}
+
+header nav ul a {
+  padding: 1rem;
+}
+
+header nav ul a[aria-current="page"] {
+  text-decoration: none;
+  font-weight: bold
+}
+
+header nav ul a:first-child {
+  padding-left: 0;
+}
