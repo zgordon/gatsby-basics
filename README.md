@@ -22,29 +22,6 @@ cd gatsby-basics
 
 The master branch contains the final version of the project.
 
-## Each Step of the Project Has a Branch
-
-During the course we build out this project bit by bit.
-
-Each step of the project has a corresponding branch with the same code I start with.
-
-You can see all of the branches like this
-
-```
-git branch -a
-```
-
-To switch to a specific branch you can do this
-
-```
-git checkout BRANCH-NAME
-```
-
-For example, to get the first branch you would run
-
-```
-git checkout 01-getting-setup
-```
 
 ## Find a Bug?
 
